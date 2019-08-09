@@ -186,7 +186,7 @@ a :hover{
 }
 /*// CONTAINER-5 //*/
 .container-5{
-	padding-top: 110px;
+	padding-top: 10px;
 	clear: both;
 	text-align: center;
 }
@@ -197,6 +197,23 @@ a :hover{
     font-weight: bold;
     font-size: 40px;
 }
+.container-5
+{
+	margin: 100px;
+	padding: 8px;
+	background: #00ff0d;
+	vertical-align: top;
+}      
+.container-5 h2
+{
+text-align: center;
+}   
+.container-5 p
+{
+text-align: center; 
+font-family: 'Roboto';
+font-size: 18px;
+}   
 
 /*// CONTAINER-6 //*/
 .container-6{
